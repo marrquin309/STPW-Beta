@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_passowrd">Enter passowrd</string>
+    <string name="login">login</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="click_here">Click here</string>
+</resources>
